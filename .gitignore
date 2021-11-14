@@ -1,0 +1,6 @@
+# Project exclude paths
+/01-hello/myhelloworld.js
+/04-classes/01-class-definition/Customer.js
+/04-classes/02-access-modifiers/Customer.js
+/04-classes/03-tsconfig/Customer.js
+/node_modules/
